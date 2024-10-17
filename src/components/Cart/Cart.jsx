@@ -1,8 +1,10 @@
+import PropTypes from "prop-types"
+const Cart = ({foodOrder, }) => {
 
-const Cart = () => {
+    const {recipe_name,preparing_time,calories}=foodOrder;
+
     return (
-        <div className='md:w-1/3 '>
-
+        <div className=' '>
             <div className="p-6 border-2 border-black-500 rounded-2xl">
                 <h3 className="text-2xl text-center mb-4">Want to cook:</h3>
                 <hr />
@@ -12,15 +14,17 @@ const Cart = () => {
                             <th className="p-3">Name</th>
                             <th className="p-3">Time</th>
                             <th className="p-3">Calories</th>
+                            <th>Cook Status</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td className="p-3">The fish spicy</td>
-                            <td className="p-3">20</td>
-                            <td className="p-3">1961</td>
-                            <button className="text-sm ">Preparing</button>
+                            <td className="p-3">{recipe_name}</td>
+                            <td className="p-3">{preparing_time}</td>
+                            <td className="p-3">{calories}</td>
+                            <button onClick={''} className="text-sm ">Preparing</button>
                         </tr>
+                        
 
                     </tbody>
                 </table>
@@ -37,9 +41,9 @@ const Cart = () => {
                     </thead>
                     <tbody>
                         <tr className=" ">
-                            <td className="p-3">the</td>
-                            <td className="p-3">20</td>
-                            <td className="p-3">1961</td>
+                            <td className="p-3"></td>
+                            <td className="p-3"></td>
+                            <td className="p-3"></td>
                         </tr>
 
                     </tbody>
@@ -49,4 +53,8 @@ const Cart = () => {
     );
 };
 
+Cart.propTypes={
+    foodOrder:PropTypes.object,
+    handleOrderFood:PropTypes.func
+}
 export default Cart;

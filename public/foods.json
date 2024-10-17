@@ -4,7 +4,7 @@
       "recipe_image": "https://i.ibb.co.com/F4zGrvJ/roasted-pork-steak-vegetables-plate.jpg",
       "recipe_name": "Grilled Chicken Salad",
       "recipe_desc": "A healthy grilled chicken salad with mixed greens, avocado, and a lemon vinaigrette.",
-      "ingredient": [
+      "ingredients": [
         "2 chicken breasts",
         "1 avocado, 1 lemon",
         "Mixed greens, Pepper",
@@ -19,7 +19,7 @@
       "recipe_image": "https://i.ibb.co.com/qYnzHMj/half-top-view-baked-potatoes-with-meatballs-vegetables-inside-plate-dark-blue-background.jpg",
       "recipe_name": "Spaghetti Carbonara",
       "recipe_desc": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
-      "ingredient": [
+      "ingredients": [
         "200g spaghetti, 2 eggs",
         "100g pancetta",
         "50g parmesan cheese",
@@ -33,7 +33,7 @@
       "recipe_image": "https://i.ibb.co.com/XYkjrKy/7526.jpg",
       "recipe_name": "Vegetable Stir-fry",
       "recipe_desc": "A quick and easy stir-fry with mixed vegetables and soy sauce.",
-      "ingredient": [
+      "ingredients": [
         "1 bell pepper",
         "1 carrot, 1 zucchini",
         "100g mushrooms, Soy sauce",
@@ -47,7 +47,7 @@
       "recipe_image": "https://i.ibb.co.com/jkyTdX8/fe29593b9f62c1def025edfb2345fe84.jpg",
       "recipe_name": "Beef Tacos",
       "recipe_desc": "Juicy beef tacos with fresh salsa, guacamole, and tortillas.",
-      "ingredient": [
+      "ingredients": [
         "200g ground beef",
         "Taco seasoning",
         "Tortillas, Tomato, Onion",
@@ -61,7 +61,7 @@
       "recipe_image": "https://i.ibb.co.com/WkThyxs/5cdba92e95d1813e3a14122be673189a.jpg",
       "recipe_name": "Chocolate Chip Cookies",
       "recipe_desc": "Classic homemade chocolate chip cookies with a soft and chewy texture.",
-      "ingredient": [
+      "ingredients": [
         "200g flour, 1 egg",
         "100g butter",
         "150g sugar, Vanilla extract",
@@ -75,7 +75,7 @@
       "recipe_image": "https://i.ibb.co.com/7CMhsky/pexels-dana-tentis-118658-262959.jpg",
       "recipe_name": "Mango Smoothie",
       "recipe_desc": "A refreshing and tropical mango smoothie with yogurt and honey.",
-      "ingredient": [
+      "ingredients": [
         "1 ripe mango",
         "100g yogurt",
         "Honey, Ice cubes",

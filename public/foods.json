@@ -1,0 +1,88 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/F4zGrvJ/roasted-pork-steak-vegetables-plate.jpg",
+      "recipe_name": "Grilled Chicken Salad",
+      "recipe_desc": "A healthy grilled chicken salad with mixed greens, avocado, and a lemon vinaigrette.",
+      "ingredient": [
+        "2 chicken breasts",
+        "1 avocado, 1 lemon",
+        "Mixed greens, Pepper",
+        "Olive oil, Salt"
+
+      ],
+      "preparing_time": "25 minutes",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/qYnzHMj/half-top-view-baked-potatoes-with-meatballs-vegetables-inside-plate-dark-blue-background.jpg",
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_desc": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "ingredient": [
+        "200g spaghetti, 2 eggs",
+        "100g pancetta",
+        "50g parmesan cheese",
+        " Black pepper,  Salt"
+      ],
+      "preparing_time": "20 minutes",
+      "calories": "600 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/XYkjrKy/7526.jpg",
+      "recipe_name": "Vegetable Stir-fry",
+      "recipe_desc": "A quick and easy stir-fry with mixed vegetables and soy sauce.",
+      "ingredient": [
+        "1 bell pepper",
+        "1 carrot, 1 zucchini",
+        "100g mushrooms, Soy sauce",
+        "Olive oil, Garlic, Ginger"
+      ],
+      "preparing_time": "15 minutes",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/jkyTdX8/fe29593b9f62c1def025edfb2345fe84.jpg",
+      "recipe_name": "Beef Tacos",
+      "recipe_desc": "Juicy beef tacos with fresh salsa, guacamole, and tortillas.",
+      "ingredient": [
+        "200g ground beef",
+        "Taco seasoning",
+        "Tortillas, Tomato, Onion",
+        "Cilantro, Lime, Avocado"
+      ],
+      "preparing_time": "30 minutes",
+      "calories": "550 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/WkThyxs/5cdba92e95d1813e3a14122be673189a.jpg",
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_desc": "Classic homemade chocolate chip cookies with a soft and chewy texture.",
+      "ingredient": [
+        "200g flour, 1 egg",
+        "100g butter",
+        "150g sugar, Vanilla extract",
+        "100g chocolate chips,Salt"
+      ],
+      "preparing_time": "40 minutes",
+      "calories": "200 calories per cookie"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/7CMhsky/pexels-dana-tentis-118658-262959.jpg",
+      "recipe_name": "Mango Smoothie",
+      "recipe_desc": "A refreshing and tropical mango smoothie with yogurt and honey.",
+      "ingredient": [
+        "1 ripe mango",
+        "100g yogurt",
+        "Honey, Ice cubes",
+        "Mint leaves"
+      ],
+      "preparing_time": "10 minutes",
+      "calories": " 250 Calories"
+    }
+  ]
+  

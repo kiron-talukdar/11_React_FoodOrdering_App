@@ -16,7 +16,7 @@ const FoodCards = ({handleOrders}) => {
     },[])
 
     return (
-        <div>
+        <div className=' grid grid-cols-2 gap-5 md:w-2/3'>
             {
                 foods.map((food,idx)=> <FoodCard key={idx} food={food} handleOrders={handleOrders}></FoodCard>)
             }

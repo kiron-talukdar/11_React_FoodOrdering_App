@@ -8,7 +8,7 @@ const FoodCard = ({food,handleOrders}) => {
 
 
     return (
-            <div className=" grid grid-cols-2 gap-5 ">
+            <div className="">
 
                 <div className=" p-6 rounded-2xl	bg-base-100 shadow-xl border-2 border-black-500">
                     <img className="rounded-lg" src={recipe_image} alt="" />
